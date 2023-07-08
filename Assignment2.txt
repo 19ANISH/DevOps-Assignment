@@ -3,3 +3,5 @@ Step 1:-
 Creating new repository
 Step 2:-
 Uploading this on github
+Step 3:-
+Performing Add, Commit, Push and Pull
